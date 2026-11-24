@@ -2,7 +2,7 @@
 
 *A comparison of five classifiers on four datasets with nested cross-validation, corrected significance tests, calibration and conformal prediction.*
 
-Author: Ben Brahim. Machine Learning project: model comparison across healthcare, banking, credit and cybersecurity data. A 4-page PDF report (`model_comparison_report.pdf`) accompanies this README; the numbers below follow that report.
+Author: karima ATIK . Machine Learning project: model comparison across healthcare, banking, credit and cybersecurity data. 
 
 ## Summary
 
